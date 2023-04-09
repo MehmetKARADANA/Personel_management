@@ -8,9 +8,6 @@ namespace Kayit_Personel
 {
     internal static class Program
     {
-        /// <summary>
-        /// Uygulamanın ana girdi noktası.
-        /// </summary>
         [STAThread]
         static void Main()
         {
